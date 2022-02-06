@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "best school!"
+update_script
+echo "Best School"
